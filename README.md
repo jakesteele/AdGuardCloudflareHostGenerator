@@ -1,6 +1,9 @@
 # AdGuardCloudflareHostGenerator
 Use a cloudflare worker to generate a up to date list from FireBog's ticked list found at https://v.firebog.net/hosts/lists.php?type=tick
 
+## Demo URL
+- https://adguardlist.jakedev.workers.dev/ (This is my url, please don't use it in your system, setup your own :D)
+
 ## Steps to setup a free cloudflare worker
 - Sign up for a cloudflare account (free) at cloudflare.com
 - On the left hand side bar, click on the Workers tab.
